@@ -7,5 +7,5 @@ Praktikum: Freitags, 14:00 - 17:15
 **Zielgruppe**  
 MKB (Medienkonzeption) - Bachelor 1. Semester
 
-**Aufgaben**
+**Aufgaben**  
 siehe Aufgaben Ordner
